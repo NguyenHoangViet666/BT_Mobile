@@ -18,6 +18,10 @@ Kho lưu trữ bài tập và tài liệu học tập môn **Lập trình Di đ�
 
 ---
 
+## Bài luyện tập mới
+
+**[Bài Luyện Tập 8](./Bài%20Luyện%20Tập%208)** — 5 câu lý thuyết về export, props, state, hooks; ProductCard tái sử dụng; FlatList 10 sản phẩm và màn Detail nhận id/name/price. Kèm hướng dẫn chạy Expo và ảnh List, Detail.
+
 ## 🚀 Hướng dẫn chạy thử mã nguồn (Bài Luyện Tập 3)
 
 Yêu cầu môi trường: **Node.js (v18+)**

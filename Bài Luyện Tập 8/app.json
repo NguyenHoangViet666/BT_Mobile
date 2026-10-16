@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Bài luyện tập 8 - Product List",
+    "slug": "bai-luyen-tap-8",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "web": { "bundler": "metro" }
+  }
+}
